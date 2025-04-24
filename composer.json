@@ -1,5 +1,5 @@
 {
-    "name": "mehedi-iitdu/core-component-repository",
+    "name": "sumkc/core-component-repository",
     "description": "My awesome package",
     "keywords": [
         "mehedi-iitdu",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^7.1 || ^8.0",
         "illuminate/support": "*"
     },
     "require-dev":{
